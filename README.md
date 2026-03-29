@@ -1,7 +1,7 @@
 # AI-Hospitality-Assistant
 # 🧠 Prompt Library — AI Hospitality Booking Assistant
 
-> **Assessment 1 | BUS4005 - Artificial Intelligence for Business
+> Assessment 1 | BUS4005 - Artificial Intelligence for Business
 > Student: Ananya Bhadauria  
 > Business Field: Hospitality (Hotel Booking & Guest Experience Systems)  
 > Model tested on: GPT-4
