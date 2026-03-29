@@ -1,5 +1,4 @@
 # AI-Hospitality-Assistant
-=======
 # 🧠 Prompt Library — AI Hospitality Booking Assistant
 
 > **Assessment 1 | Generative AI for Business**  
