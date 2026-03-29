@@ -180,7 +180,3 @@ Each prompt includes **three or two versions (v1 → v3)** demonstrating:
 
 ---
 
-## 🔥 Key Innovation
-
-This system moves beyond traditional booking forms by implementing an **intent-driven, conversational, and lifecycle-based AI workflow**, integrating booking, operations, service delivery, and retention into a single intelligent system.
->>>>>>> 04f0a8e (Added project files)
