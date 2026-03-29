@@ -17,9 +17,7 @@ This creates a clear gap.
 
 Current systems still require users to navigate multiple screens, interpret options, and manually configure their booking. This process can be time-consuming, inefficient, and prone to errors.
 
-This solution addresses the gap by redesigning the booking experience itself.
-
-Instead of starting with static forms, the system introduces an **intent-driven, conversational approach** that understands why the user is travelling and guides them step-by-step. It actively supports decision-making, recommends optimal configurations, prevents invalid selections, and connects inputs directly to operational outcomes such as room allocation and check-in preparation.
+This solution addresses the gap by redesigning the booking experience itself. Instead of starting with static forms, the system introduces an **intent-driven, conversational approach** that understands why the user is travelling and guides them step-by-step. It actively supports decision-making, recommends optimal configurations, prevents invalid selections, and connects inputs directly to operational outcomes such as room allocation and check-in preparation.
 
 This transforms booking from a passive data-entry process into an intelligent, guided experience.
 
